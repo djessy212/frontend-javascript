@@ -4,6 +4,7 @@ function isDirector(employee: Director | Teacher): employee is Director {
 }
 
 // Function to execute work based on role
+["export function isDirector"]
 function executeWork(employee: Director | Teacher): string {
   if (isDirector(employee)) {
     return employee.workDirectorTasks();
