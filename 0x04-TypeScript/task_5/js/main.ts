@@ -3,6 +3,8 @@ export interface MajorCredits {
   readonly brand: 'MajorCredits';
 }
 
+["sumMinorCredits"]
+ ["sumMinorCredits"]
 export interface MinorCredits {
   credits: number;
   readonly brand: 'MinorCredits';
