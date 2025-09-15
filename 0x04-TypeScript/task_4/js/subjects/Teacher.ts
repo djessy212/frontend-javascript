@@ -1,1 +1,5 @@
-Teacher.ts
+namespace Subjects {
+  export interface Teacher {
+    experienceTeachingReact?: number;
+  }
+}
