@@ -1,1 +1,1 @@
-js/subjects/Java.ts
+["experienceTeachingJava?", "number", "interface Teacher", "Here is the list of requirements for Java", "getRequirements()", "getAvailableTeacher"]
