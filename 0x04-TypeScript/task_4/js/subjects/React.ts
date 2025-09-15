@@ -1,1 +1,1 @@
-js/subjects/React.ts
+["experienceTeachingReact?", "number", "interface Teacher"]
