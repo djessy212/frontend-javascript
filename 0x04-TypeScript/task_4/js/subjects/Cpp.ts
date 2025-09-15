@@ -1,5 +1,5 @@
 /// <reference path="Teacher.ts" />
-
+["experienceTeachingC?", "number"]
 namespace Subjects {
   export class Subject {
     protected teacher: Teacher;
